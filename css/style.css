@@ -1,0 +1,55 @@
+body{
+    font-size: 18px;
+    font-family: tahoma;
+    color: rgb(0, 0, 0);
+    background-color: mediumpurple;
+    letter-spacing: 1.5px;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    padding: 40px;
+}
+.hambur{
+    background-color: rgba(46, 179, 197, 0.733);
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+}
+.aperi{
+    background-color: rgba(74, 236, 136, 0.555);
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+
+}
+.bebidas{
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 20px;
+
+}
+footer{
+    text-align: center;
+}
+.link{
+    background-color: rgb(179, 194, 190);   
+    border-radius: 15px; 
+    margin: 20px;
+    text-align: center;
+
+}
+a:hover{
+    background-color: black;
+    border-radius: 10%;
+    color: white;
+}
+li{
+    list-style: none; 
+    display: inline; 
+}
+p{
+    margin: 20px;
+}
